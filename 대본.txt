@@ -1,0 +1,39 @@
+Hello. I'm 김민서.
+I will introduce my dream job, programmer.
+
+I will announce according to this contents.
+
+Who are the programmers?
+They talk with computers like a translator in situations where people speak Korean and American.
+We call it, coding.
+And they make some algorithms, structures and processes of the programs.
+And they protect their programs from cracker called black hacker.
+
+How many types of programmers?
+Their are a lot of types of programmers.
+Like web programmers, application programmers, game programmers, data scientist, embedded programmers, hackers, AI experts, and so on.
+Web developers, application developers, and game developers are usually divided into server developers and client developers.
+Client developer makes most of things that you see like characters, interfaces, effects, and animations and processes user input.
+Server developer manages clients' important data by using database and provides what the client needs.
+And embedded programmers write some codes which are used in refrigerator, cars, airplanes, and even spaceship
+So they have to write codes as perfectly as possible with very small memory.
+It is really difficult works, so they have to think a lot and they have great skills.
+And I think you know the rest.
+
+And their are a lot of programming languages.
+If you want to create a web service, you can use HTML, CSS, javascript, and typescript in the client, and java, php, .net, kotlin, python, ruby, rust, c, or most of the programming languages in the server.
+If you want to create a game, people use c or c# a lot.
+If you want to make mobile apps, most of people use java, kotlin, react native, flutter, objective-c or swift.
+If you want to do data science, people use matlab, r, python, and c a lot
+And if you want to make other things, you can just choose one language and build it.
+
+And these ide help you to do coding well.
+
+If you learn to code, there are lots of things you can try as seen above.
+And it will help you to think logically.
+And if you have something which is repeated, you can make them easier with computers.
+Finally, you can create almost everything you imagine.
+
+What i want to say is "how about trying coding? It could be interesting for you".
+
+Thanks.
